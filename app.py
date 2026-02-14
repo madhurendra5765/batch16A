@@ -5,3 +5,5 @@ c = a+b
 print ("the sum of 2 numbers are : ", c)
 
 print ("The age of madh is" )
+
+print ("Enter into second day of git")
